@@ -1,0 +1,12 @@
+MANIFEST.in
+README.rst
+setup.py
+django_fileviewer.egg-info/PKG-INFO
+django_fileviewer.egg-info/SOURCES.txt
+django_fileviewer.egg-info/dependency_links.txt
+django_fileviewer.egg-info/top_level.txt
+fileviewer/__init__.py
+fileviewer/forms.py
+fileviewer/models.py
+fileviewer/tests.py
+fileviewer/views.py

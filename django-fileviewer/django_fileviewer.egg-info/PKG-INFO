@@ -1,0 +1,35 @@
+Metadata-Version: 1.1
+Name: django-fileviewer
+Version: 0.1
+Summary: This is a Django plugin to render files like pdf, ebooks and others.
+Home-page: UNKNOWN
+Author: Beatriz Ferreira
+Author-email: beatriz.216@hotmail.com
+License: BSD License
+Description: =====
+        FileViewer
+        ====
+        
+        This is a Django plugin to render files like pdf, ebooks and others.
+        
+        Quick start
+        -------------
+        1) Add "fileviewer" to your INSTALLED_APPS setting like this::
+        
+            INSTALLED_APPS = [
+                ...
+                'polls',
+            ]
+        
+        There is no need to kmake migrations or include urls.
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 1.9
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
